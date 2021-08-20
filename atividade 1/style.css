@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+#div1{
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.imagem1{
+    border-style: dashed;
+    color: black;
+    width: 300px; height: 250px;
+    border-width: 15px;
+}
+.imagem2{
+    border-style: dotted;
+    color: red;
+    width: 300px; height: 250px;
+    border-width: 10px;
+}
+.imagem3{
+    border-style: double;
+    color: green;
+    width: 300px; height: 250px;
+    border-width: 25px;
+}
+.imagem4{
+    border-style: solid;
+    color: blue;
+    width: 300px; height: 250px;
+    border-width: 5px;
+}
+.imagem5{
+    border-style: ridge;
+    width: 300px; height: 250px;
+    border-width: 40px;
+}
